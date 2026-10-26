@@ -119,7 +119,7 @@ script script_showtime_main
     rest 24
     beat_anim
     rest 24
-    spawn_cue CUE_GRAY
+    spawn_cue CUE_BLACK
     beat_anim
     rest 24
     beat_anim
@@ -135,34 +135,6 @@ script script_showtime_main
     rest 24
     beat_anim
     rest 24
-    beat_anim
-    rest 24
-    beat_anim
-    rest 24
-    beat_anim
-    rest 24
-    beat_anim
-    rest 24
-    beat_anim
-    rest 24
-    beat_anim
-    rest 24
-    beat_anim
-    rest 24
-    beat_anim
-    rest 24
-    beat_anim
-    rest 24
-    spawn_cue CUE_GRAY
-    beat_anim
-    rest 24
-    beat_anim
-    rest 24
-    beat_anim
-    rest 24
-    beat_anim
-    rest 24
-    spawn_cue CUE_BLACK
     beat_anim
     rest 24
     beat_anim
@@ -195,6 +167,36 @@ script script_showtime_main
     rest 24
     beat_anim
     rest 24
+    spawn_cue CUE_WHITE
+    beat_anim
+    rest 24
+    beat_anim
+    rest 24
+    beat_anim
+    rest 24
+    beat_anim
+    rest 24
+    beat_anim
+    rest 24
+    beat_anim
+    rest 24
+    beat_anim
+    rest 24
+    spawn_cue CUE_WHITE
+    beat_anim
+    rest 24
+    beat_anim
+    rest 24
+    spawn_cue CUE_WHITE
+    beat_anim
+    rest 24
+    beat_anim
+    rest 24
+    spawn_cue CUE_WHITE
+    beat_anim
+    rest 24
+    beat_anim
+    rest 24
     beat_anim
     rest 24
     spawn_cue CUE_GRAY
@@ -202,6 +204,7 @@ script script_showtime_main
     rest 24
     beat_anim
     rest 24
+    spawn_cue CUE_WHITE
     beat_anim
     rest 24
     beat_anim
@@ -218,6 +221,7 @@ script script_showtime_main
     spawn_cue CUE_BLACK
     beat_anim
     rest 24
+    spawn_cue CUE_WHITE
     beat_anim
     rest 24
     beat_anim
