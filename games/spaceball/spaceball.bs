@@ -117,7 +117,7 @@ script script_spaceball_main
     spaceball_zoom_camera 0xff00, 96
     set_music_volume 60
     mod_music_volume 180, 192
-    play_music s_shibafu1_bgm_seqData
+    play_music s_shibafu2_bgm_seqData
     rest 24
     enable_pause_menu
     rest 24
